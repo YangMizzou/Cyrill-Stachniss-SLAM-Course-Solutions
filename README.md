@@ -1,5 +1,7 @@
 # Cyrill-Stachniss-SLAM-Course-Solutions
-MATLAB Solution Code for Cyrill Stachniss SLAM Course
+MATLAB Solution Code for the Homework Assignment of Cyrill Stachniss SLAM Course
+
+Octave framework and the relevant data type are converted to MATLAB compatible files. Solutions are provided.
 
 # Reference
 
